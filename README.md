@@ -9,6 +9,18 @@ This extension is intended for use with the [Ruffle](https://ruffle.rs/) project
 - Firefox Add-ons: (Coming soon)
 - Chrome Web Store: (Coming soon)
 
+## Building
+
+To build the extension, you will need to have Node.js and pnpm installed.
+
+```bash
+# Live re-build, for development
+pnpm dev
+
+# Build for production
+pnpm build
+```
+
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
