@@ -6,8 +6,8 @@ This extension is intended for use with the [Ruffle](https://ruffle.rs/) project
 
 ## Installation
 
-- Firefox Add-ons: (Coming soon)
-- Chrome Web Store: (Coming soon)
+- Firefox Add-ons: <https://addons.mozilla.org/ja/firefox/addon/no-cors-for-swf/>
+- Chrome Web Store: <https://chromewebstore.google.com/detail/no-cors-for-swf/cpnmooclkmhdbbmlidadgmiidombgiab>
 
 ## Building
 
